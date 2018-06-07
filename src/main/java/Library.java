@@ -4,7 +4,7 @@
 public class Library {
 
 	public boolean someLibraryMethod() {
-		System.out.println("test");
+		System.out.println("666");
 		return true;
 	}
 }
